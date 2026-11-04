@@ -1,7 +1,7 @@
 # Datos del estudiante
 
-- **Apellido y nombre:**
-- **Tecnicatura:** (Higiene y Seguridad / Comercio Exterior / Marketing Digital / Seguros / Administración de Empresas)
-- **Cohorte / turno:**
-- **Fecha:**
+- **Apellido y nombre:Garcia Sofia Antonela**
+- **Tecnicatura:**(Comercio Exterior)**
+- **Cohorte / turno:Mañana**
+- **Fecha:4 de noviembre**
 - **Consigna que desarrollo:** `consignas/` + nombre del archivo
